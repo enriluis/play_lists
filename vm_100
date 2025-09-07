@@ -3,7 +3,7 @@ spotify_playlist_ids = 49cgVbcXJUU2PLtJIcTPLe,0WzFRK2BckCJwBtGdMPV5n,779uIDTTsL3
 [virtual_machine]
 vm_id = 100
 [scheduled_time]
-scheduled_hours =11:15,17:11
+scheduled_hours = 11:15,17:11
 [telegram]
 chat_ids = 699683569,828562504
 [SETTINGS]
